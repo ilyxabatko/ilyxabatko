@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Community Manager at [Neon Labs](https://neon-labs.org/)
 - 🌱 I’m currently learning **Rust, Anchor, TypeScript and Solana Blockchain in general.**
+- 🌅 I'm currently studying at Encode Solana Bootcamp.
 - 📫 How to reach me: **elijahbrnv@gmail.com**
 
 ## Connect with me:
