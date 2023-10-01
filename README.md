@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Community Manager at [Neon EVM](https://neonevm.org/).
 - 🌱 Practising with **Rust, Anchor, TypeScript and Solana Blockchain in general.**
+- 🥇 Solana OPOS Hackathon "**ZK Privacy Innovations**" track winner!
 - 🌅 Finished the "Let's Get Rusty" Rust Bootcamp, WBA Solana Cohort and Encode Solana Bootcamp. 
 - 📫 How to reach me: **elijahbrnv@gmail.com** , or socials down below.
 
