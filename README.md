@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Ilia Barinov!
 
+- 👷‍♀️ Currently working as a Software Developer on Solana Blockchain. 
 - 🔭 Ex: Community Manager at [Neon EVM](https://neonevm.org/).
 - 🌱 Practising with **Rust, Anchor, TypeScript, Solana Blockchain in general and some cryptography (zk, hash functions).**
 - 🥇 Solana OPOS Hackathon "**ZK Privacy Innovations**" track winner!
