@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Ilia Barinov!
 
-- 👷‍♀️ Currently working as a Software Developer on Solana Blockchain. 
+- 👷‍♀️ Software Developer at [SevenLabs](https://www.sevenlabs.org/). 
 - 🔭 Ex: Community Manager at [Neon EVM](https://neonevm.org/).
 - 🌱 Practising with **Rust, Anchor, TypeScript, Solana Blockchain in general and some cryptography (zk, hash functions).**
 - 🥇 Solana OPOS Hackathon "**ZK Privacy Innovations**" track winner!
-- 🌅 Finished the "Let's Get Rusty" Rust Bootcamp, WBA Solana Cohort and Encode Solana Bootcamp, currently a Encode ZK Bootcamp student. 
+- 🌅 Finished the "Let's Get Rusty" **Rust Bootcamp**, **WBA Solana Cohort**,  **Encode Solana Bootcamp** and **Encode ZK Bootcamp**. 
 - 📫 How to reach me: **elijahbrnv@gmail.com** , or socials down below.
 
 ## Connect with me:
