@@ -2,7 +2,7 @@
 
 - 👷‍♀️ Software Developer at [SevenLabs](https://www.sevenlabs.org/). 
 - 🔭 Ex: Community Manager at [Neon EVM](https://neonevm.org/).
-- 🌱 Practising with **Rust, Anchor, TypeScript, Solana Blockchain in general and some cryptography (zk, hash functions).**
+- 🌱 Practising with **Rust, C, Linux, eBPF programs, Anchor, TypeScript, Solana Blockchain in general and some cryptography.**
 - 🥇 Solana OPOS Hackathon "**ZK Privacy Innovations**" track winner!
 - 🌅 Finished **Ackee Solana Auditor Bootcamp**, "Let's Get Rusty" **Rust Bootcamp**, **WBA Solana Cohort**,  **Encode Solana Bootcamp** and **Encode ZK Bootcamp**. 
 - 📫 How to reach me: **elijahbrnv@gmail.com** , or socials down below.
