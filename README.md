@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ilia Barinov!
 
-- 👷‍♀️ Software Developer at [SevenLabs](https://www.sevenlabs.org/). 
+- 👷‍♀️ Ex: Software Developer at [SevenLabs](https://www.sevenlabs.org/). 
 - 🔭 Ex: Community Manager at [Neon EVM](https://neonevm.org/).
 - 🌱 Practising with **Rust, C, Linux, eBPF programs, Anchor, TypeScript, Solana Blockchain in general and some cryptography.**
 - 4️⃣ Colosseum Breakout Hackathon (2025) - 4th place consumer apps: [Glympse.fun](https://arena.colosseum.org/hackathon/project).
