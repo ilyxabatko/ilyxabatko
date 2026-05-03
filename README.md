@@ -16,4 +16,9 @@
 <a href="https://t.me/elijahbrnv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="elijahbrnv" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyxabatko&langs_count=4&layout=compact)](https://github.com/ilyxabatko/github-readme-stats)
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilyxabatko&show_icons=true&layout=compact&theme=dark&hide_border=true"
+    alt="Top languages"
+  />
+</p>
